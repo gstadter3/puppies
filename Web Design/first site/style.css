@@ -1,0 +1,51 @@
+body {
+background-color: #b3ffe5;
+font-family: "cooper black";
+color: purple
+}
+#navigation {
+	padding: 0;
+	margin: 0;
+	}
+	
+#navigation li {
+	display: inline;
+	float: left;
+	}
+	
+#navigation a, #navigation a:visited {
+	display: block;
+	width: 6em;
+	border: 1px solid #808;
+	font-size: 0.8em;
+	text-align: center;
+	text-decoration: none;
+	}
+	
+#pic1 img{
+	box-shadow: 8px 8px 10px #aaa;
+	}
+	
+#pic2 img{
+	border: 10px double #ffb3ff;
+}
+
+#pic3 img{
+	border:15px solid #aaa;
+	padding:10px;
+}
+
+#pic4 img{ 
+	border-radius: 70%
+}
+
+#pic5 img{ 
+	opacity: 0.5;
+}
+
+
+div p {
+    background-color: yellow;
+}
+
+
