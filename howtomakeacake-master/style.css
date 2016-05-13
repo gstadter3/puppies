@@ -1,0 +1,35 @@
+body {
+background-color:#FFB6C1;
+font-family: "Times New Roman"
+}
+
+
+#navigation {
+	padding: 0;
+	margin: 0;
+	}
+	
+#navigation li {
+	display: inline;
+	float: left;
+	}
+	
+#navigation a, #navigation a:visited {
+	display: block;
+	width: 5em;
+	border: 1px solid #000;
+	font-size: 0.8 em;
+	text-align: center;
+	text-decoration: none;
+	}
+	
+	
+/*This is individually styling the buddy id on the h1 on howtomakeacake page */
+
+#buddy {
+	color: #B6212D;
+}
+	
+
+	
+	
